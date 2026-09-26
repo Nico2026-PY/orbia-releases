@@ -1,0 +1,7 @@
+{
+  "contract": "orbia-release.v1",
+  "product": "ORBIA",
+  "channel": "pilot",
+  "available": false,
+  "architecture": "win-x64"
+}
